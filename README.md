@@ -1,2 +1,2 @@
 # binary-runner
-A simple game
+A simple binary style game
